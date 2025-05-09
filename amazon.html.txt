@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Swiped Geschenkideen</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #0a0f1c;
+      color: #ffffff;
+      text-align: center;
+      padding: 40px;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      background: #1e88e5;
+      color: white;
+      padding: 12px 24px;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+    a:hover {
+      background: #1565c0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Willkommen bei Swiped</h1>
+  <p>Unsere App hilft dir, passende Geschenkideen per Swipe zu finden.</p>
+  <p>Hier ist ein Beispiel-Amazon-Link mit unserem PartnerTag:</p>
+  <a href="https://www.amazon.de/dp/B0C5MRLZBF?tag=swipedapp69-21" target="_blank">
+    Amazon Produkt ansehen
+  </a>
+</body>
+</html>
